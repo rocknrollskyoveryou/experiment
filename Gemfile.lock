@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/rocknrollskyoveryou/dess-ruby.git
+  revision: 24185437935588b60b14b30287a7ca5230ba368c
+  specs:
+    dess (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dess!
+
+BUNDLED WITH
+   1.14.6
